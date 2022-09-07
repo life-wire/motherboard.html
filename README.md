@@ -1,6 +1,6 @@
 # Motherboard
 
-[![Motherboard](blue.png)](https://github.com/life-wire/motherboard.html)
+[![Motherboard](blue.png)](https://icncomputer.com/what-is-motherboard/)
 
 Alternatively referred to as the mb, mainboard, mboard, mobo, mobd, backplane board, base board, main circuit board, planar board, system board, or a logic board on Apple computers. The motherboard is a printed circuit board and foundation of a computer that is the biggest board in a computer chassis. It allocates power and allows communication to and between the CPU, RAM, and all other computer hardware components.
 
